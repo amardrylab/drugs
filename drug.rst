@@ -1,3 +1,7 @@
+===============================
+Analgesic and Antipyretic Drugs
+===============================
+
 Paracetamol (Acetaminophen)
 +++++++++++++++++++++++++++
 
@@ -23,6 +27,10 @@ Another way of synthesis
 .. image:: ibuprofen1.png
         :width: 300pt
         :height: 300pt
+
+=============
+Antimalarials
+=============
 
 Chloroquine
 +++++++++++
@@ -56,4 +64,40 @@ Synthesis of sidechain and combination
         :width: 300pt
         :height: 300pt
 
+===================================
+Anti infective and Antibiotic Drugs
+===================================
 
+Antiinfective drugs are a large class of drugs that covers a broad range of inections, including fungal, viral, bacterial and even protozoal infections.
+
+However the term antibiotic is used for those drugs that help stop infections caused by bacteria. They do this by killing the bacteria or by nhibiting the proliferation of bacteria. The term antibiotic means "against life". hence any drug that kills germs in our body is technically an antibiotic. However, by convension, it is used for expressing these drugs that kill bacteria.
+
+Chloramphenicol
++++++++++++++++
+
+Chloramphenicol is an antibiotic useful for the treatment of a number of bacterial infection. It was discovered in 1947 and was isolated from *Streptomyces venezuelae*. Its chemical structure was identified and was synthesised in 1949. According to the WHO's list of essential medicines, this the safest and most effective medicines needed in a health system.
+
+Structure
+---------
+
+.. image:: chloramphenicol.png
+        :width: 150pt
+        :height: 150pt
+
+Use
+---
+
+- As an eye ointment to treat conjunctivitis
+- Can be administered orally or by injection into a vein and used for the treatment of meningitis, plague, cholera and typhoid fever.
+
+Common side effects
+-------------------
+
+This includes bone marrow suppression, nausea and diarrhea.
+
+Mode of action
+--------------
+
+Chloramphenicol is a bacteriostatic substrate that works by inhibiting protein synthesis. It prevents protein chain elongation by inhibiting peptidyl transferase activity of the bacterial ribosome.
+
+ 
