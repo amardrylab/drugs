@@ -84,6 +84,31 @@ Structure
         :width: 150pt
         :height: 150pt
 
+Some important chemical reactions
+---------------------------------
+
+1. The structure of chloramphenicol reveals that it is a nitrobenzene derivative and contains an amide group. Chloramphenicol when hydrolyzed by an acid or alkali, results a base and dichloroacetic acid.
+
+.. image:: chloramphenicol_hydrolysis.png
+        :width: 150pt
+        :height: 150pt
+
+2. The resulting base obtained by the hydrolysis of chloraphenicol contains three vicinal functional groups, two hydroxyl and one amino group. This type of molecule can be degraded by the action of periodic acid and the base actually consumes two molecules of periodic acid which results p-nitrobenzaldehyde, formaldehyde and ammonia.
+
+.. image:: chloramphenicol_periodic.png
+        :width: 150pt
+        :height: 150pt
+
+3. The presence of an amide linkage in chloramphenicol makes it inactive towards the periodic acid oxidation.
+
+Synthesis of Chloramphenicol
+----------------------------
+
+.. image:: chloramphenicol_synthesis.png
+        :width:   150pt
+        :height:  150pt
+
+
 Use
 ---
 
